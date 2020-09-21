@@ -10,10 +10,10 @@ h1 {
 
 #container {
     display:grid;
-    
+    border: 2px solid black;
 }
 
-
 .tile {
-    border: 1px solid black;
+    width: 10px;
+    height: 10px;
 }
